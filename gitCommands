@@ -1,0 +1,18 @@
+Open Folder 
+in folder right click open terminal 
+git init 
+git clone URL Repository(SandBox/private Repo)
+Enter User name 
+Enter passwod 
+************** 
+open & edit some file 
+right clcik in FolderName -> open terminal 
+git add FILENAME 
+git status // filename in green 
+git commit 
+git status 
+git push 
+Enter Username 
+Enter password 
+msg -- success 
+End!
